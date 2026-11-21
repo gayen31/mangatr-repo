@@ -1,0 +1,11 @@
+{
+  "name": "MangaTR",
+  "extensions": [
+    {
+      "name": "Manga-TR",
+      "package": "eu.kanade.tachiyomi.extension.tr.mangatr",
+      "version": "1.6.27",
+      "apk": "https://github.com/gayen31/mangatr-repo/releases/download/v1.6.27/tachiyomi-tr.mangatr-v1.6.27-signed.apk"
+    }
+  ]
+}
